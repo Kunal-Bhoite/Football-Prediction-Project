@@ -1,0 +1,254 @@
+<!--
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Football Team Prediction</title>
+</head>
+<body>
+    <h1>Football Team Prediction</h1>
+    <form action="/predict1" method="post">
+        <label for="home_team">Home Team:</label>
+        <input type="text" name="home_team" required><br>
+
+        <label for="away_team">Away Team:</label>
+        <input type="text" name="away_team" required><br>
+
+        <label for="tournament">Tournament:</label>
+        <input type="text" name="tournament" required><br>
+
+        <label for="city">City:</label>
+        <input type="text" name="city" required><br>
+
+        <label for="country">Country:</label>
+        <input type="text" name="country" required><br>
+
+        <label for="neutral">Neutral (1 for True, 0 for False):</label>
+        <input type="number" name="neutral" required><br>
+
+        <label for="year">Year:</label>
+        <input type="number" name="year" required><br>
+
+        <label for="month">Month:</label>
+        <input type="text" name="month" required><br>
+
+        <label for="day">Day:</label>
+        <input type="number" name="day" required><br>
+
+        <label for="continent">Continent:</label>
+        <input type="text" name="continent" required><br>
+
+        <label for="max_temp">Maximum Temperature (Month):</label>
+        <input type="number" name="max_temp" required><br>
+
+        <label for="min_temp">Minimum Temperature (Month):</label>
+        <input type="number" name="min_temp" required><br>
+
+        <label for="home_team_rank">Home Team Rank:</label>
+        <input type="number" name="home_team_rank" required><br>
+
+        <label for="away_team_rank">Away Team Rank:</label>
+        <input type="number" name="away_team_rank" required><br>
+        <input type="submit" value="predict1">
+    </form>
+</body>
+</html>
+-->
+<!--
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Football Team Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            margin: 0 auto;
+        }
+
+        label {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        input[type="text"],
+        input[type="number"] {
+            width: calc(100% - 12px);
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+
+        input[type="submit"] {
+            width: 100%;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            padding: 10px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Football Team Prediction</h1>
+    <form action="/predict1" method="post">
+        <label for="home_team">Home Team:</label>
+        <input type="text" name="home_team" required><br>
+
+        <label for="away_team">Away Team:</label>
+        <input type="text" name="away_team" required><br>
+
+        <label for="tournament">Tournament:</label>
+        <input type="text" name="tournament" required><br>
+
+        <label for="city">City:</label>
+        <input type="text" name="city" required><br>
+
+        <label for="country">Country:</label>
+        <input type="text" name="country" required><br>
+
+        <label for="neutral">Neutral (1 for True, 0 for False):</label>
+        <input type="number" name="neutral" required><br>
+
+        <label for="year">Year:</label>
+        <input type="number" name="year" required><br>
+
+        <label for="month">Month:</label>
+        <input type="text" name="month" required><br>
+
+        <label for="day">Day:</label>
+        <input type="number" name="day" required><br>
+
+        <label for="continent">Continent:</label>
+        <input type="text" name="continent" required><br>
+
+        <label for="max_temp">Maximum Temperature (Month):</label>
+        <input type="number" name="max_temp" required><br>
+
+        <label for="min_temp">Minimum Temperature (Month):</label>
+        <input type="number" name="min_temp" required><br>
+
+        <label for="home_team_rank">Home Team Rank:</label>
+        <input type="number" name="home_team_rank" required><br>
+
+        <label for="away_team_rank">Away Team Rank:</label>
+        <input type="number" name="away_team_rank" required><br>
+        <input type="submit" value="Predict">
+    </form>
+</body>
+</html>
+-->
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Football Team Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/230718090531-usa-women-world-cup-winners-2019.jpg?c=original'); /* Replace 'your_image_path.jpg' with the path to your image */
+            background-size: cover;
+            background-position: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 500px;
+            margin: 50px auto;
+            background-color: rgba(255, 255, 255, 0.8); /* Adjust the opacity as needed */
+            padding: 20px;
+            border-radius: 10px;
+            /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);*/
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #555;
+        }
+        input[type="text"],
+        input[type="number"],
+        input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type="submit"] {
+            background-color: #007bff;
+            color: #fff;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Football Team Prediction</h1>
+        <form action="/predict1" method="post">
+            <label for="home_team">Home Team:</label>
+            <input type="text" name="home_team" required><br>
+
+            <label for="away_team">Away Team:</label>
+            <input type="text" name="away_team" required><br>
+
+            <label for="tournament">Tournament:</label>
+            <input type="text" name="tournament" required><br>
+
+            <label for="city">City:</label>
+            <input type="text" name="city" required><br>
+
+            <label for="country">Country:</label>
+            <input type="text" name="country" required><br>
+
+           
+            <input type="hidden" name="neutral" value="1">
+            <input type="hidden" name="year" value="2024">
+            <input type="hidden" name="month" value="May">
+            <input type="hidden" name="day" value="1">
+            <input type="hidden" name="continent" value="Europe">
+            <input type="hidden" name="max_temp" value="35">
+            <input type="hidden" name="min_temp" value="35">
+            <input type="hidden" name="home_team_rank" value="13">
+            <input type="hidden" name="away_team_rank" value="13">
+
+            <input type="submit" value="Predict">
+        </form>
+    </div>
+</body>
+</html>
+-->

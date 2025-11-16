@@ -1,0 +1,59 @@
+<!--<!DOCTYPE html>
+<html>
+<head>
+    <title>Football Team Prediction</title>
+</head>
+<body>
+    <h1>Football Team Prediction Results</h1>
+    {% if prediction %}
+        <p>Prediction: {{ prediction }}</p>
+    {% endif %}
+    {% if error %}
+        <p>Error: {{ error }}</p>
+    {% endif %}
+</body>
+</html>-->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Football Team Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+             background-image: url('https://gcn.ie/wp-content/uploads/2022/10/ireland-world-cup.png'); /* Replace 'your_image_path.jpg' with the path to your image */
+            background-size: cover;
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #ffffff;
+        }
+
+        p {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #555;
+            text-align: center;
+        }
+
+        .prediction {
+            color: #ffffff;
+            font-weight: bold;
+        }
+
+        .error {
+            color: #dc3545;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Football Team Prediction Results</h1>
+    {% if prediction %}
+        <p class="prediction">Prediction: {{ prediction }}</p>
+    {% endif %}
+    
+</body>
+</html>

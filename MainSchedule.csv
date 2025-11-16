@@ -1,0 +1,49 @@
+,home_team,away_team,tournament,city,country,neutral,year,month,day,Continent,Country,MaximumTemp_Month,MinimumTemp_Month,HomeTeamRank,AwayTeamRank
+0,New Zealand,Norway,FIFA World Cup,Auckland,New Zealand,False,2023,July,20,Oceania,New Zealand,14,10,22,11
+1,Australia,Republic of Ireland,FIFA World Cup,Sydney,Australia,False,2023,July,20,Oceania,Australia,17,9,12,24
+2,Nigeria,Canada,FIFA World Cup,Melbourne,Australia,True,2023,July,20,Oceania,Australia,17,9,39,6
+3,Philippines,Switzerland,FIFA World Cup,Adelaide,Australia,True,2023,July,20,Oceania,Australia,17,9,53,21
+4,Spain,Costa Rica,FIFA World Cup,Wellington,New Zealand,True,2023,July,20,Oceania,New Zealand,14,10,7,37
+5,USA,Vietnam,FIFA World Cup,Auckland,New Zealand,True,2023,July,22,Oceania,New Zealand,14,10,1,32
+6,Zambia,Japan,FIFA World Cup,Adelaide,Australia,True,2023,July,22,Oceania,Australia,17,9,103,11
+7,England,Haiti,FIFA World Cup,Adelaide,Australia,True,2023,July,22,Oceania,Australia,17,9,4,56
+8,Denmark,China,FIFA World Cup,Perth,Australia,True,2023,July,22,Oceania,Australia,17,9,15,16
+9,Sweden,South Africa,FIFA World Cup,Wellington,New Zealand,True,2023,July,23,Oceania,New Zealand,14,10,2,54
+10,Netherlands,Portugal,FIFA World Cup,Adelaide,Australia,True,2023,July,23,Oceania,Australia,17,9,4,23
+11,France,Jamaica,FIFA World Cup,Sydney,Australia,True,2023,July,23,Oceania,Australia,17,9,3,51
+12,Italy,Argentina,FIFA World Cup,Auckland,New Zealand,True,2023,July,24,Oceania,New Zealand,14,10,14,29
+13,Germany,Morocco,FIFA World Cup,Melbourne,Australia,True,2023,July,24,Oceania,Australia,17,9,2,76
+14,Brazil,Panama,FIFA World Cup,Adelaide,Australia,True,2023,July,24,Oceania,Australia,17,9,9,57
+15,Colombia,South Korea,FIFA World Cup,Sydney,Australia,True,2023,July,24,Oceania,Australia,17,9,25,17
+16,New Zealand,Philippines,FIFA World Cup,Wellington,New Zealand,False,2023,July,25,Oceania,New Zealand,14,10,22,53
+17,Switzerland,Norway,FIFA World Cup,Adelaide,Australia,True,2023,July,25,Oceania,Australia,17,9,21,11
+18,Spain,Zambia,FIFA World Cup,Auckland,New Zealand,True,2023,July,26,Oceania,New Zealand,14,10,7,103
+19,Japan,Costa Rica,FIFA World Cup,Adelaide,Australia,True,2023,July,26,Oceania,Australia,17,9,11,37
+20,Canada,Republic of Ireland,FIFA World Cup,Perth,Australia,True,2023,July,26,Oceania,Australia,17,9,6,24
+21,USA,Netherlands,FIFA World Cup,Wellington,New Zealand,True,2023,July,27,Oceania,New Zealand,14,10,1,4
+22,Portugal,Vietnam,FIFA World Cup,Adelaide,Australia,True,2023,July,27,Oceania,Australia,17,9,23,32
+23,Australia,Nigeria,FIFA World Cup,Adelaide,Australia,False,2023,July,27,Oceania,Australia,17,9,12,39
+24,England,Denmark,FIFA World Cup,Sydney,Australia,True,2023,July,28,Oceania,Australia,17,9,4,15
+25,Argentina,South Africa,FIFA World Cup,Adelaide,Australia,True,2023,July,28,Oceania,Australia,17,9,29,54
+26,China,Haiti,FIFA World Cup,Adelaide,Australia,True,2023,July,28,Oceania,Australia,17,9,16,56
+27,Sweden,Italy,FIFA World Cup,Wellington,New Zealand,True,2023,July,29,Oceania,New Zealand,14,10,2,14
+28,France,Brazil,FIFA World Cup,Adelaide,Australia,True,2023,July,29,Oceania,Australia,17,9,3,9
+29,Panama,Jamaica,FIFA World Cup,Perth,Australia,True,2023,July,29,Oceania,Australia,17,9,57,51
+30,Germany,Colombia,FIFA World Cup,Auckland,New Zealand,True,2023,July,30,Oceania,New Zealand,14,10,2,25
+31,South Korea,Morocco,FIFA World Cup,Adelaide,Australia,True,2023,July,30,Oceania,Australia,17,9,17,76
+32,Norway,Philippines,FIFA World Cup,Auckland,New Zealand,True,2023,July,30,Oceania,New Zealand,14,10,11,53
+33,Switzerland,New Zealand,FIFA World Cup,Adelaide,Australia,False,2023,July,30,Oceania,Australia,17,9,21,22
+34,Canada,Australia,FIFA World Cup,Melbourne,Australia,False,2023,July,31,Oceania,Australia,17,9,6,12
+35,Japan,Spain,FIFA World Cup,Wellington,New Zealand,True,2023,July,31,Oceania,New Zealand,14,10,11,7
+36,Costa Rica,Zambia,FIFA World Cup,Adelaide,Australia,True,2023,July,31,Oceania,Australia,17,9,37,103
+37,Republic of Ireland,Nigeria,FIFA World Cup,Adelaide,Australia,True,2023,July,31,Oceania,Australia,17,9,24,39
+38,Portugal,USA,FIFA World Cup,Auckland,New Zealand,True,2023,August,1,Oceania,New Zealand,14,11,23,1
+39,Vietnam,Netherlands,FIFA World Cup,Adelaide,Australia,True,2023,August,1,Oceania,Australia,19,9,32,4
+40,Haiti,Denmark,FIFA World Cup,Perth,Australia,True,2023,August,1,Oceania,Australia,19,9,56,15
+41,China,England,FIFA World Cup,Adelaide,Australia,True,2023,August,1,Oceania,Australia,19,9,16,4
+42,Panama,France,FIFA World Cup,Sydney,Australia,True,2023,August,2,Oceania,Australia,19,9,57,3
+43,Jamaica,Brazil,FIFA World Cup,Melbourne,Australia,True,2023,August,2,Oceania,Australia,19,9,51,9
+44,South Africa,Italy,FIFA World Cup,Wellington,New Zealand,True,2023,August,2,Oceania,New Zealand,14,11,54,14
+45,Argentina,Sweden,FIFA World Cup,Adelaide,Australia,True,2023,August,2,Oceania,Australia,19,9,29,2
+46,South Korea,Germany,FIFA World Cup,Adelaide,Australia,True,2023,August,3,Oceania,Australia,19,9,17,2
+47,Morocco,Colombia,FIFA World Cup,Perth,Australia,True,2023,August,3,Oceania,Australia,19,9,76,25
