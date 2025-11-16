@@ -36,6 +36,7 @@ A **Flask-based web application** was built to allow users to:
 ---
 
 ## 🧠 Machine Learning Results
+![alt text](image-4.png)
 
 | Algorithm           | Accuracy   | Precision | Recall | F1-Score |
 | ------------------- | ---------- | --------- | ------ | -------- |
