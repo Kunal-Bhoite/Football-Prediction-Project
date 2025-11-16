@@ -47,7 +47,6 @@ A **Flask-based web application** was built to allow users to:
 🏆 **Predicted Tournament Winner: Switzerland**
 *(Based on full Women’s World Cup simulation)*
 
-
 ## 🛠️ Tech Stack
 
 | Domain          | Technologies             |
@@ -81,8 +80,10 @@ Data was sourced from:
 * Automated knockout stage predictions
 * Interactive user interface built using Flask & HTML templates
 
----
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 ## 🚀 How to Run the Project
 
 ```sh
